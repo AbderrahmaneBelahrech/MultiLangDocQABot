@@ -93,7 +93,7 @@ La génération de la réponse est réalisée par le modèle mistralai/Mistral-7
 
 ## Démo Vidéo
 Pour une démonstration complète du fonctionnement de l'application, consultez la vidéo suivante :
-[DocQABot_Demo.webm](https://github.com/user-attachments/assets/f2fe121e-c815-4ac6-b0ef-8af1b80e4a24)
+https://github.com/user-attachments/assets/7c1c6312-e33f-4ad7-b263-8cbc29c22019
 
 ## Contributeurs
 - BELAHRECH Abderrahmane
