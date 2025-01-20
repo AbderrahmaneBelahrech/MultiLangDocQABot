@@ -93,7 +93,7 @@ La génération de la réponse est réalisée par le modèle mistralai/Mistral-7
 
 ## Démo Vidéo
 Pour une démonstration complète du fonctionnement de l'application, consultez la vidéo suivante :
-https://github.com/user-attachments/assets/7c1c6312-e33f-4ad7-b263-8cbc29c22019
+https://github.com/user-attachments/assets/fd6a0aeb-b27d-4594-ba3c-d470569f0cbf
 
 ## Contributeurs
 - BELAHRECH Abderrahmane
