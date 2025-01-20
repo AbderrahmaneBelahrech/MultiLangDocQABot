@@ -93,12 +93,11 @@ La génération de la réponse est réalisée par le modèle mistralai/Mistral-7
 
 ## Démo Vidéo
 Pour une démonstration complète du fonctionnement de l'application, consultez la vidéo suivante :
-https://github.com/user-attachments/assets/033d12e3-6116-4afb-85a8-89d2fbd8985e
-![Démo GIF](https://github.com/user-attachments/assets/033d12e3-6116-4afb-85a8-89d2fbd8985e)
-<video controls width="100%">
-  <source src="https://github.com/user-attachments/assets/033d12e3-6116-4afb-85a8-89d2fbd8985e" type="video/mp4">
-  Votre navigateur ne supporte pas les vidéos.
-</video>
+[DocQABot_Demo.webm](https://github.com/user-attachments/assets/2b3a046f-d0fc-470b-a275-fd7fc61d85fe)
+
+[video](https://github.com/user-attachments/assets/3f5b2fad-a74d-4d72-86c2-70b1b54b655a)
+
+
 
 
 ## Contributeurs
