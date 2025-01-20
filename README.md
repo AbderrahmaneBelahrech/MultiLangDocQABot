@@ -75,7 +75,8 @@ L’application Document Q&A Bot repose sur la méthodologie Retrieval-Augmented
 
 ### Illustration de l'Architecture
 
-![Architecture Diagram](image.png)
+![image](https://github.com/user-attachments/assets/9e7a2595-398a-4f57-bada-360e8eed5862)
+
 
 Le processus commence par l’extraction du contenu du document, qu’il s’agisse de fichiers PDF, DOCX, ou TXT. Ce contenu est ensuite divisé en segments plus petits (également appelés chunks) à l’aide de RecursiveCharacterTextSplitter, ce qui permet de structurer les données pour un traitement plus efficace. Chaque segment de texte est transformé en un vecteur d’embedding à l’aide du modèle sentence-transformers/all-MiniLM-L6-v2. Ce modèle est conçu pour capturer le sens et le contexte du texte sous une forme numérique, facilitant ainsi la comparaison entre les différents segments de texte.
 
@@ -92,8 +93,7 @@ La génération de la réponse est réalisée par le modèle mistralai/Mistral-7
 
 ## Démo Vidéo
 Pour une démonstration complète du fonctionnement de l'application, consultez la vidéo suivante :
-
-[Insérez le lien vers la vidéo ici]
+[DocQABot_Demo.webm](https://github.com/user-attachments/assets/f2fe121e-c815-4ac6-b0ef-8af1b80e4a24)
 
 ## Contributeurs
 - BELAHRECH Abderrahmane
