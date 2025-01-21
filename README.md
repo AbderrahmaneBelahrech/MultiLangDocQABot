@@ -86,6 +86,8 @@ Lorsqu’une question est soumise par l’utilisateur, celle-ci est convertie en
 
 La génération de la réponse est réalisée par le modèle mistralai/Mistral-7B-Instruct-v0.1, un modèle de langage génératif capable de produire des réponses cohérentes et précises en fonction du contexte fourni. Le modèle prend les segments récupérés et la question de l’utilisateur pour générer une réponse qui est à la fois contextuellement adaptée et basée sur des informations exactes extraites du document original.
 
+Pour plus d’informations théoriques et une explication détaillée du fonctionnement de l'application, consultez le fichier PDF **[All You Need Is Right Here](All_You_Need_Is_Right_Here!.pdf)** disponible dans ce projet.
+
 ## Utilisation
 1. **Uploader un Document** : Cliquez sur "Browse files" pour charger un fichier.
 2. **Poser une Question** : Entrez une question sur le contenu du document.
