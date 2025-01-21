@@ -50,6 +50,47 @@ Ce chatbot a pour objectif de fournir des réponses précises et contextuelles �
    HF_TOKEN=VotreTokenHuggingFace
    ```
 
+4. Construisez l'image Docker :
+   ```bash
+   docker build -t document-qa-bot .
+   ```
+
+5. Lancez le conteneur Docker :
+   ```bash
+   docker run -d -p 8501:8501 --env-file .env document-qa-bot
+   ```
+
+## Démarrage
+
+1. Lancez l’application Streamlit (si vous utilisez l'installation locale) :
+   ```bash
+   streamlit run app.py
+   ```
+
+2. Accédez à l’interface utilisateur dans votre navigateur :
+   ```
+   http://localhost:8501
+   ```
+
+
+## Installation
+
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/votre-dépôt.git
+   cd votre-dépôt
+   ```
+
+2. Installez les dépendances Python :
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Configurez les variables d’environnement en créant un fichier `.env` :
+   ```env
+   HF_TOKEN=VotreTokenHuggingFace
+   ```
+
 ## Démarrage
 
 1. Lancez l’application Streamlit :
